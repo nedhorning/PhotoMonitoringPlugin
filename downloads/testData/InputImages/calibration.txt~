@@ -1,0 +1,23 @@
+Calibration information for IMG_0201.JPG
+
+Number of data points for regression: 2
+R squared for visible band: 0.9999999999999881
+R squared for NIR band: 0.9999999999999909
+
+Visible band slope (gain) and intercept (offest) 
+   intercept: -0.18958255
+   slope: 0.00006683
+NIR band slope (gain) and intercept (offest) 
+   intercept: 0.00269518
+   slope: 0.00009052
+
+Subtract NIR from visible:true
+Percent of NIR to subtract: 0.8
+Remove gamma effect:true
+Blue band gamma factor: 0.55
+Red band gamma factor: 0.55
+
+Mean for target 1 for visible band: 15810.157374526516
+Mean for target 1 for NIR band: 9916.167436079546
+Mean for target 2 for visible band: 3547.4967261904762
+Mean for target 2 for NIR band: 596.0467261904762
